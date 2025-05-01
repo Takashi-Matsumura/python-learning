@@ -1,0 +1,6 @@
+openpyxl
+pandas
+matplotlib
+torch
+torchvision
+pillow

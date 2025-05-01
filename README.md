@@ -6,8 +6,8 @@
 
 1. リポジトリをクローンします。
    ```bash
-   git clone https://github.com/your-org/python-intro-series.git
-   cd python-intro-series
+   git clone https://github.com/Takashi-Matsumura/python-learning.git
+   cd python-learning
    ```
 
 2. Docker コンテナをビルドして起動します。

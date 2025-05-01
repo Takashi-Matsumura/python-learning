@@ -1,2 +1,3 @@
-# src/output ディレクトリを無視
+# src/output と src/data ディレクトリを無視
 src/output/
+src/data/
